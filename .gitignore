@@ -1,0 +1,15 @@
+# Compilados de Maven
+target/
+
+# Base de datos H2 local
+data/
+*.mv.db
+*.trace.db
+
+# Archivos de IntelliJ
+.idea/
+*.iml
+out/
+
+# Otros
+.DS_Store
